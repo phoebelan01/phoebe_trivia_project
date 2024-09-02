@@ -1,0 +1,17 @@
+Phoebe_trivia_project/
+├── manage.py
+├── testenv/
+├── trivia_project/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+└── trivia/
+    ├── admin.py
+    ├── apps.py
+    ├── __init__.py
+    ├── models.py
+    ├── tests.py
+    ├── views.py
+    └── migrations/
